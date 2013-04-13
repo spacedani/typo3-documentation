@@ -11,7 +11,7 @@
 TYPO3 Documentation Starter  <- Change this to your title!
 ========================================================================
 
-:Author:          My Name <my.name@domain.global>
+:Author:          Danijela Grgic <spacedani@gmail.com>
 :Buildinfo:       `Make folder <_make>`_ (if on docs.typo3.org)
 :Copyright:       2013 ...
 :Description:     This is a recommended template to start any ReST based
